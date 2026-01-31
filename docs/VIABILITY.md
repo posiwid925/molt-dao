@@ -1,4 +1,4 @@
-# Molt DAO v2
+# Molt DAO
 
 *Investment DAO for agent infrastructure. VSM-native design.*
 
